@@ -155,7 +155,8 @@ code,
 kbd,
 tt,
 var {
-  font: 15px Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+  /*font: 15px Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;*/
+  font: 15px メイリオ, Meiryo, Osaka, “ヒラギノ角ゴ Pro W3″, “Hiragino Kaku Gothic Pro”, “ＭＳ Ｐゴシック”, “MS PGothic”, sans-serif;
 }
 abbr,
 acronym {
@@ -333,7 +334,8 @@ select {
   padding: 0;
   margin: 0;
   background: #ffffff;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+  font-family: 15px メイリオ, Meiryo, Osaka, “ヒラギノ角ゴ Pro W3″, “Hiragino Kaku Gothic Pro”, “ＭＳ Ｐゴシック”, “MS PGothic”, sans-serif;
   line-height: 26.64px;
   font-size: 18px;
   font-size: 1.8rem;
@@ -348,7 +350,8 @@ h4,
 h5,
 h6 {
   clear: both;
-  font-family: "Arvo", Georgia, serif;
+  /*font-family: "Arvo", Georgia, serif;*/
+  font-family: 15px メイリオ, Meiryo, Osaka, “ヒラギノ角ゴ Pro W3″, “Hiragino Kaku Gothic Pro”, “ＭＳ Ｐゴシック”, “MS PGothic”, sans-serif;
 }
 h1 {
   line-height: 71.03999999999999px;
@@ -421,7 +424,8 @@ address {
 }
 pre {
   background: #eee;
-  font-family: "Courier 10 Pitch", Courier, monospace;
+  /*font-family: "Courier 10 Pitch", Courier, monospace;*/
+  font-family: 15px メイリオ, Meiryo, Osaka, “ヒラギノ角ゴ Pro W3″, “Hiragino Kaku Gothic Pro”, “ＭＳ Ｐゴシック”, “MS PGothic”, sans-serif;
   font-size: 15px;
   font-size: 1.5rem;
   line-height: 1.6;
@@ -484,7 +488,8 @@ header #brand {
   margin-top: 22px;
 }
 header #brand h1 {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+  font-family: 15px メイリオ, Meiryo, Osaka, “ヒラギノ角ゴ Pro W3″, “Hiragino Kaku Gothic Pro”, “ＭＳ Ｐゴシック”, “MS PGothic”, sans-serif;
   font-weight: 900;
   color: #565656;
   line-height: 23.68px;
